@@ -1,8 +1,10 @@
 
 ### 1. **Homepage and Navigation:**
    - The homepage introduces the website with a welcome message and brief information about the platform’s functionality. Users can navigate to different sections using a header menu that links to pages like **Home**, **About**, **Contact**, and **Products**.
+     
 ![home](https://github.com/user-attachments/assets/d153e641-495a-49a8-b724-24d5fd0cd55b)
-![Uploading about.png…]()
+
+![about](https://github.com/user-attachments/assets/599c1144-8990-475a-aceb-880fef6d1b91)
 
 ### 2. **Contact Form:**
    - A contact page is available where users can submit their **name**, **email**, and **message** via a form.
